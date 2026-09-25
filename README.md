@@ -9,7 +9,7 @@ Study Buddy Academy is a student-focused educational website built to make study
 * Interactive quizzes
 * Quiz results and feedback
 * Progress tracking
-* Responsive design for mobile, tablet, and desktop
+* Responsive design for mobile, tablet and desktop
 * Contact Us section
 * Clean and modern educational interface
 
@@ -86,20 +86,13 @@ Study Buddy Academy is designed to work across different screen sizes, including
 
 The interface is designed to remain easy to use and readable across different devices.
 
-## Screenshots
-
-### Home Page
-
-### Quiz Section
-
-### Progress Section
-
 ## Project Purpose
 
-I created Study Buddy Academy as an educational and portfolio project to practice and demonstrate frontend development skills.
-
-The project focuses on building a responsive user interface along with interactive features that can be useful for students.
+I created Study Buddy Academy as an educational and portfolio project to practice and demonstrate frontend development skills. The project focuses on building a responsive user interface along with interactive features that can be useful for students.
 
 ## Author
 
 **Muhammad Tanveer**
+
+libra.tanveer16@gmail.com
+
