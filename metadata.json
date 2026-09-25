@@ -1,0 +1,6 @@
+{
+  "name": "Study Buddy Academy",
+  "description": "Study Buddy Academy — Learn smarter. Stay consistent. Aptech Academy Student educational project with interactive flashcards, practice quizzes, focus timer, study analytics, and study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
